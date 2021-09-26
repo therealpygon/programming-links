@@ -1,3 +1,5 @@
+## [← Back to main page](./README.md)
+
 # Beginner Learning
 
 Either the odin project or freecodecamp are the best place to start learning. The odinproject actually uses freecodecamp for some parts of their courses

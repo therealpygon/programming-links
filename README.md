@@ -10,5 +10,5 @@ Links I just find to be useful in general or don't fit into a category.
 
 ## Web Development
 * [HTML/CSS](./html-css.md)
-* [JavaScript](./javascript.md) - JavaScript specific links
-* [Web Development](./webdev.md) - Bringing the above together.
+* [JavaScript](./javascript.md)
+* [Web Development](./webdev.md) - Bringing HTML, CSS, and JavaScript together for both frontend and backend.
